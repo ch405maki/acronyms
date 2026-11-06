@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "acronyms": {
+    "LGU": "Local Government Unit",
+    "COA": "Commission on Audit",
+    "CSC": "Civil Service Commission",
+    "COMELEC": "Commission on Elections",
+    "UHCA": "Universal Health Care Act"
+  }
+}
