@@ -1,5 +1,5 @@
 {
-  "version": 1.2,
+  "version": 1.3,
   "acronyms": {
     "LGU": "Local Government Unit",
     "COA": "Commission on Audit",
@@ -37,6 +37,7 @@
     "IRR": "Implementing Rules and Regulations",
     "UHCA": "Universal Health Care Act",
     "GAA": "General Appropriations Act ",
-    "OCA": "Office of the Court Administrator"
+    "OCA": "Office of the Court Administrator",
+    "GOCCs": "government-owned and controlled corporations"
   }
 }
