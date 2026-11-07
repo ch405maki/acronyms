@@ -1,5 +1,5 @@
 {
-  "version": 1.9,
+  "version": 1.10,
   "acronyms": {
     "LGU": "Local Government Unit",
     "COA": "Commission on Audit",
@@ -43,6 +43,5 @@
     "C.J": "Chief Justice",
     "SAJ": "Senior Associate Justice",
     "DENIED": "Denied"
-    
   }
 }
