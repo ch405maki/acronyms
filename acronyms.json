@@ -1,5 +1,5 @@
 {
-  "version": 1.4,
+  "version": 1.5,
   "acronyms": {
     "LGU": "Local Government Unit",
     "COA": "Commission on Audit",
@@ -41,7 +41,7 @@
     "GOCCs": "government-owned and controlled corporations",
     "JJ.,": "associate justices",
     "FINED": "Fined",
-    "C.J.": "Chief Justice",
-    "SAJ.": "Senior Associate Justice"
+    "C.J.,": "Chief Justice",
+    "SAJ.,": "Senior Associate Justice"
   }
 }
